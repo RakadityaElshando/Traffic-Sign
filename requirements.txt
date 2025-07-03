@@ -1,0 +1,7 @@
+torch==2.0.0
+torchvision==0.15.1
+torchaudio==2.0.0
+ultralytics==8.0.197
+flask
+opencv-python
+werkzeug
