@@ -60,7 +60,8 @@ label_descriptions = {
     "jalanTanjak": "Tanjakan curam di depan.",
     "rambuBerhenti": "Kendaraan wajib berhenti sementara.",
     "rambuPutarBalik": "Lokasi untuk putar balik kendaraan.",
-    "persimpanganEmpat": "Simpang empat, hati-hati dan beri prioritas."
+    "persimpanganEmpat": "Simpang empat, hati-hati dan beri prioritas.",
+    "persimpanganTigaKiri": "Simpang tiga, hati-hati dan beri prioritas."
 }
 
 # Index to label mapping for Faster R-CNN (should match training order)
